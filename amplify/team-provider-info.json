@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-catholicdbexp-dev-f08e7-authRole",
+      "UnauthRoleArn": "arn:aws:iam::747227446346:role/amplify-catholicdbexp-dev-f08e7-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::747227446346:role/amplify-catholicdbexp-dev-f08e7-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-catholicdbexp-dev-f08e7-deployment",
+      "UnauthRoleName": "amplify-catholicdbexp-dev-f08e7-unauthRole",
+      "StackName": "amplify-catholicdbexp-dev-f08e7",
+      "StackId": "arn:aws:cloudformation:us-east-2:747227446346:stack/amplify-catholicdbexp-dev-f08e7/2adad7d0-fb98-11ee-a52a-020f0a528bbf",
+      "AmplifyAppId": "d2hnaw00lv3sjx"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2hnaw00lv3sjx",
+          "type": "cicd"
+        }
+      }
+    }
+  }
+}
